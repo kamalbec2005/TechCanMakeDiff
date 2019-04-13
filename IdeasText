@@ -1,0 +1,21 @@
+Open points can not be automated:
+
+
+Points can be automated:
+1) Smart barricade: Number scanner: Cam/RFID
+ Description: 
+ 
+2) Complete automation of EXIT barricade.
+  Description:
+  Check the vehicle when it is leaving the apartment.
+  Scenarios:
+  1) Owner's vehicles: Validate the number and open if it owner's car
+  2) Visitor's vehicles: Should find the time from entry time. Here camera is a must things. 
+     Because visitors can not have RFID.
+  3) Aotomatic charging if their visitos places vehicle long time.
+3) Common area lights:
+  Description: Should be automated depending on:
+  1) Out door light intensity
+  2) Timing (mid night, early evening)
+  3) Switch on alternative lights/light dimm
+  
